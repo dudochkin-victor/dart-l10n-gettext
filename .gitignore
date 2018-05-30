@@ -3,3 +3,5 @@ packages
 packages/**
 ##locale
 *.po~
+pubspec.lock
+.dart_tool
